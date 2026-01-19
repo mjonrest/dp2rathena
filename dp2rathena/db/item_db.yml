@@ -5293,7 +5293,7 @@ items:
   7321: Fragment_Of_Crystal
   7322: Poisonous_Gas
   7323: Battered_Kettle
-  7324: aegis_7324
+  7324: IL_Kraken_Leg
   7325: Tube
   7326: Fluorescent_Liquid
   7327: Headlamp
@@ -8915,11 +8915,11 @@ items:
   15419: Armor_of_White_Thread
   15420: Icefall_Dress
   15421: Triad_God_Mail_J_
-  15841: aegis_15841
+  15841: C_Hat_of_Goggle
   15843: Hunters_Dinner
   15858: C_Choco_Banana
   15881: C_Rose_Crispinette
-  15888: aegis_15888
+  15888: C_Hand_Of_Devil
   15889: C_Boitata_Hat_J
   16000: Erde
   16001: Red_Square_Bag
@@ -11391,7 +11391,7 @@ items:
   20614: C_Kyel_hyre_Ulti_TW
   20615: C_School_Bag_BU
   20616: C_School_Bag_PU
-  20617: aegis_20617
+  20617: C_Wing_Of_Eutaxy
   20700: Egir_Manteau
   20701: Sol_Manteau
   20702: TE_Woe_Muffler
@@ -11542,12 +11542,12 @@ items:
   20968: Temporal_M_Luk
   20969: Rainbow_Muffler_Jp
   20973: Spiritual_Cloth
-  20985: aegis_20985
-  20987: aegis_20987
+  20985: C_Gourd_bottle_J
+  20987: C_Heart_Wing_Bag_J
   20988: C_Mechanical_Butterfly
   20989: C_Mainspring_Screw
   20990: C_Rotating_Gears
-  20991: aegis_20991
+  20991: Fairy_Of_Eden
   20992: C_Fairy_Of_Eden
   21000: Upg_Twohand_Sword
   21001: Velum_Claymore
@@ -13420,11 +13420,11 @@ items:
   25866: Spell_Of_Time
   25867: Fragment_Of_Time
   25876: Harvest_Lottery_Ticket
-  25892: aegis_25892
-  25893: aegis_25893
-  25894: aegis_25894
-  25895: aegis_25895
-  25896: aegis_25896
+  25892: Abysmal_Clam
+  25893: Deepsea_Fish_Tail
+  25894: Rotten_Deepseafish
+  25895: Deep_Sea_Starfish
+  25896: Deep_Sea_Crab
   25897: Crown_Of_Witch
   25898: Siroods_Fish_Rod
   25899: E_Abyss1
@@ -13684,10 +13684,10 @@ items:
   27386: C_Raydric_Card
   27387: C_Raydric_Archer_Card
   27388: C_Cursed_Butler
-  27393: aegis_27393
-  27394: aegis_27394
-  27395: aegis_27395
-  27396: aegis_27396
+  27393: Kathryn_Card
+  27394: S_Kathryn_Card
+  27395: Isaac_Card
+  27396: S_Issac_Card
   28000: Thanos_Katar
   28001: Katar_Of_Evil_Slayer
   28002: Half_BF_Katar2
@@ -15207,7 +15207,7 @@ items:
   31806: C_Tw_Frog_Hat
   31807: C_Peacock_Feather
   31808: C_Red_PhD_Hat
-  31809: aegis_31809
+  31809: C_Red_Wizardry_Hat
   31810: C_Deep_Angel_Hairband
   31811: C_Thief_Hood
   31812: C_Bulb_Hairband
@@ -15275,16 +15275,16 @@ items:
   31879: C_Exotic_Bob_R_BG
   31880: C_Exotic_Bob_R_JBL
   31881: C_Exotic_Bob_R_BW
-  31882: aegis_31882
+  31882: C_Choco_Stick_In_Mouth
   31883: C_Nine_Tail_Fox_Hair_J
   31884: C_Magic_Helm
   31885: Cons_Of_Earth
-  31886: aegis_31886
-  31887: aegis_31887
+  31886: C_Pierced_Apple_E
+  31887: C_Pure_Love_Muffler
   31888: C_W_King_Tiger_Doll_Hat
-  31889: aegis_31889
-  31890: aegis_31890
-  31897: aegis_31897
+  31889: C_Gemini_Crown
+  31890: C_Sagittarius_Diadem
+  31897: C_Pisces_Crown
   31899: C_Freyja_Crown
   31902: C_10_Type_Glasses
   31903: C_White_Snake
@@ -15294,14 +15294,14 @@ items:
   31907: C_PGstone_Knit_Hat_BW
   31908: C_Antler_Fedora
   31909: C_711_Knit_Hat
-  31910: aegis_31910
+  31910: C_Shaving_Cream
   31911: C_LittleGarden
   31912: C_Black_Veil_J
   31913: C_Black_Feather
   31914: C_Red_Bread_Hat
   31915: c_Sweet_Corone
   31916: C_Frill_Collar
-  31917: aegis_31917
+  31917: C_2018_RTC_Cape4_TW_J
   31918: C_Party_Recruiter_Hat
   31919: C_Friend_Recruiter_Hat
   31920: C_Western_Grace
@@ -15317,24 +15317,24 @@ items:
   31932: C_Suit_Sollar
   31933: C_Miyabi_Long_Hair_LPP
   31934: C_Blink_Eyes_Sakura
-  31935: aegis_31935
+  31935: C_Baby_Dragon_Hat
   31936: C_Nut_Donut_In_Mouth
   31937: C_Unicorn_Ornament
   31938: C_L_Knitting_Low_Twin
   31939: C_Carnation_Corolla
-  31940: aegis_31940
-  31941: aegis_31941
+  31940: C_Earth_Godess_Mask
+  31941: C_Super_Cell
   31942: C_Romance_Rose_J
   31943: C_Frog_Hood
   31944: C_Elegant_Wave
   31946: C_Frantic_Looking
   31947: C_Sinister_Horn_Gear
   31948: C_Eyes_Of_Illusion
-  31949: aegis_31949
-  31950: aegis_31950
-  31951: aegis_31951
+  31949: C_Diabolus_Wing
+  31950: C_Nut_Cracker_JP
+  31951: C_Happy_Cat_JP
   31952: C_GatesofNetherWorld
-  31953: aegis_31953
+  31953: C_Cor_Core_Headset
   31954: C_Vassalage_Necklace
   31957: C_Cons_Of_Poison
   31959: C_RK_Hair_BL
@@ -15353,7 +15353,7 @@ items:
   31973: C_Blossom_Glasses
   31974: C_Melon_Headphone
   31975: Sweet_Potato_In_Mouth
-  31976: aegis_31976
+  31976: C_Focus_Beret
   32001: Diva_Spear
   32002: Mirage_Spear
   32004: Probation_Lance
@@ -15409,8 +15409,8 @@ items:
   32258: RingofJupiter
   32262: Ball_Of_RasenHuuma
   32263: Shield_Ring
-  32295: aegis_32295
-  32296: aegis_32296
+  32295: Crystal_Blade_Necklace
+  32296: Crystal_Blade_Necklace_
   32300: Variant_Handgun
   32301: Illusion_Gold_Lux
   32302: Crimson_Rose
@@ -15820,7 +15820,7 @@ items:
   300191: MD_Geffen_Dy_Card
   300192: MD_Sakray_Card
   300193: MD_Tiara_Card
-  300209: aegis_300209
+  300209: SLD_Grave_Amon_Ra_Card
   300211: EP18_Ash_Toad_Card
   300212: EP18_Rakehand_Card
   300213: EP18_Spark_Card
@@ -15836,93 +15836,93 @@ items:
   300223: EP18_Phantom_Wolf_Card
   300227: EP18_Schulang_Card
   300228: EP18_Demi_Freyja_Card
-  300230: aegis_300230
-  300231: aegis_300231
-  300232: aegis_300232
-  300233: aegis_300233
-  300234: aegis_300234
-  300235: aegis_300235
-  300236: aegis_300236
-  300237: aegis_300237
-  300238: aegis_300238
-  300239: aegis_300239
-  300240: aegis_300240
-  300241: aegis_300241
-  300242: aegis_300242
-  300243: aegis_300243
-  300244: aegis_300244
-  300245: aegis_300245
-  300246: aegis_300246
-  300247: aegis_300247
-  300248: aegis_300248
-  300249: aegis_300249
-  300250: aegis_300250
-  300251: aegis_300251
-  300252: aegis_300252
-  300253: aegis_300253
-  300254: aegis_300254
-  300255: aegis_300255
-  300256: aegis_300256
-  300257: aegis_300257
-  300258: aegis_300258
-  300259: aegis_300259
-  300260: aegis_300260
-  300261: aegis_300261
-  300262: aegis_300262
-  300263: aegis_300263
-  300264: aegis_300264
-  300265: aegis_300265
-  300266: aegis_300266
-  300267: aegis_300267
-  300268: aegis_300268
-  300269: aegis_300269
-  300270: aegis_300270
-  300271: aegis_300271
-  300272: aegis_300272
-  300273: aegis_300273
-  300274: aegis_300274
-  300275: aegis_300275
-  300276: aegis_300276
-  300277: aegis_300277
-  300278: aegis_300278
-  300279: aegis_300279
-  300280: aegis_300280
-  300281: aegis_300281
-  300292: aegis_300292
-  300293: aegis_300293
-  300294: aegis_300294
-  300295: aegis_300295
-  300296: aegis_300296
-  300297: aegis_300297
-  300307: aegis_300307
-  300308: aegis_300308
-  300309: aegis_300309
-  300310: aegis_300310
-  300348: aegis_300348
-  300359: aegis_300359
-  300360: aegis_300360
-  300361: aegis_300361
-  300362: aegis_300362
-  300363: aegis_300363
-  300364: aegis_300364
-  300365: aegis_300365
-  300366: aegis_300366
-  300367: aegis_300367
-  300368: aegis_300368
-  300369: aegis_300369
-  300370: aegis_300370
-  300371: aegis_300371
-  300372: aegis_300372
-  300373: aegis_300373
-  300374: aegis_300374
-  300375: aegis_300375
-  300376: aegis_300376
-  300377: aegis_300377
-  300378: aegis_300378
-  300379: aegis_300379
-  300380: aegis_300380
-  300381: aegis_300381
-  300382: aegis_300382
+  300230: ILL_Andre_Card
+  300231: ILL_Andre_soldier_Card
+  300232: ILL_Andre_larva_Card
+  300233: ILL_Deniro_Card
+  300234: ILL_Piere_Card
+  300235: ILL_Ant_egg_Card
+  300236: ILL_Giearth_Card
+  300237: ILL_Farmiliar_Card
+  300238: ILL_Vitata_Card
+  300239: ILL_Maya_Card
+  300240: Gan_Ceann_Card
+  300241: Brutal_Murderer_Card
+  300242: Ghost_Cube_Card
+  300243: Lude_Gal_Card
+  300244: Disguiser_Card
+  300245: Bluemoon_Loli_Ruri_Card
+  300246: Grote_Card
+  300247: Pierrotzoist_Card
+  300248: Death_Witch_Card
+  300249: Giant_Caput_Card
+  300250: Dolorian_Card
+  300251: Plagarion_Card
+  300252: Deadre_Card
+  300253: Venedi_Card
+  300254: Amitera_Card
+  300255: Litus_Card
+  300256: Fillia_Card
+  300257: Vanilaqus_Card
+  300258: Lava_Eater_Card
+  300259: Fulgor_Card
+  300260: Napeo_Card
+  300261: Galensis_Card
+  300262: The_One_Card
+  300263: Reken_Guard_Card
+  300264: Reken_H_Guard_Card
+  300265: Regen_Scientist_Card
+  300266: Unknown_Swordman_Card
+  300267: Crow_Baron_Card
+  300268: Crow_Duke_Card
+  300269: Eldest_Card
+  300270: Empathizer_Card
+  300271: Happy_Giver_Card
+  300272: Pray_Giver_Card
+  300273: Smile_Giver_Card
+  300274: Tha_Anger_Card
+  300275: Tha_Horror_Card
+  300276: Tha_Regret_Card
+  300277: Tha_Resent_Card
+  300278: Void_Mimic_Card
+  300279: Book_Of_Death_Card
+  300280: Broken_Thanatos_Card
+  300281: R001_Bestia_Card
+  300292: Extra_Joker_Card
+  300293: Erzsebet_Card
+  300294: Jeniffer_Card
+  300295: General_Orc_Card
+  300296: Sieglouse_Card
+  300297: Goblin_King_Card
+  300307: Meyer_Card
+  300308: S_Meyer_Card
+  300309: Helmut_Card
+  300310: S_Helmut_Card
+  300348: SLD_G_Amon_Ra_Card_J
+  300359: Ice_Gangu_Card
+  300360: Shining_Seaweed_Card
+  300361: Ice_Straw_Card
+  300362: Unfrost_Flower_card
+  300363: Limacina_Card
+  300364: Calmaring_Card
+  300365: Primitive_Rgan_Card
+  300366: Lowest_Rgan_Card
+  300367: Junior_Rgan_Card
+  300368: Middle_G_Rgan_Card
+  300369: Discarded_P_R_Card
+  300370: Discarded_L_R_Card
+  300371: Cave_Calmaring_Card
+  300372: Cave_Un_Flower_Card
+  300373: B_Hallucigenia_Card
+  300374: Hallucigenia_Card
+  300375: One_E_Dollocaris_Card
+  300376: Eyes_Dollocaris_Card
+  300377: Ultra_Limacina_Card
+  300378: Simulation_Juncea_Card
+  300379: R_Superior_Rgan_Card
+  300380: E_Inter_Rgan_Card
+  300381: Heart_Hunter_AT_Card
+  300382: Aquila_Card
   310000: Ranger_Top2
   310001: Ranger_Middle2
   310002: Ranger_Bottom2
@@ -15942,104 +15942,104 @@ items:
   310079: Cassock_Dex
   310080: Cassock_Int
   310081: Cassock_Luk
-  310082: aegis_310082
-  310083: aegis_310083
-  310084: aegis_310084
-  310085: aegis_310085
-  310086: aegis_310086
-  310087: aegis_310087
-  310088: aegis_310088
-  310089: aegis_310089
-  310090: aegis_310090
-  310091: aegis_310091
-  310092: aegis_310092
-  310093: aegis_310093
-  310094: aegis_310094
-  310095: aegis_310095
-  310096: aegis_310096
-  310097: aegis_310097
-  310098: aegis_310098
-  310099: aegis_310099
-  310100: aegis_310100
-  310101: aegis_310101
-  310102: aegis_310102
-  310103: aegis_310103
-  310104: aegis_310104
-  310105: aegis_310105
-  310106: aegis_310106
-  310107: aegis_310107
-  310108: aegis_310108
-  310109: aegis_310109
-  310110: aegis_310110
-  310111: aegis_310111
-  310112: aegis_310112
-  310113: aegis_310113
-  310114: aegis_310114
-  310115: aegis_310115
-  310116: aegis_310116
-  310117: aegis_310117
-  310118: aegis_310118
-  310119: aegis_310119
-  310120: aegis_310120
-  310121: aegis_310121
-  310122: aegis_310122
-  310123: aegis_310123
-  310124: aegis_310124
-  310125: aegis_310125
-  310126: aegis_310126
-  310127: aegis_310127
-  310128: aegis_310128
-  310129: aegis_310129
-  310130: aegis_310130
-  310131: aegis_310131
-  310132: aegis_310132
-  310133: aegis_310133
-  310134: aegis_310134
-  310135: aegis_310135
-  310136: aegis_310136
-  310137: aegis_310137
-  310138: aegis_310138
-  310139: aegis_310139
-  310140: aegis_310140
-  310141: aegis_310141
-  310142: aegis_310142
-  310143: aegis_310143
-  310144: aegis_310144
-  310145: aegis_310145
-  310146: aegis_310146
-  310147: aegis_310147
-  310148: aegis_310148
-  310149: aegis_310149
-  310150: aegis_310150
-  310151: aegis_310151
-  310152: aegis_310152
-  310153: aegis_310153
-  310154: aegis_310154
-  310155: aegis_310155
-  310156: aegis_310156
-  310157: aegis_310157
-  310158: aegis_310158
-  310159: aegis_310159
-  310160: aegis_310160
-  310161: aegis_310161
-  310162: aegis_310162
-  310163: aegis_310163
-  310164: aegis_310164
-  310165: aegis_310165
-  310166: aegis_310166
-  310167: aegis_310167
-  310168: aegis_310168
-  310169: aegis_310169
-  310170: aegis_310170
-  310171: aegis_310171
-  310172: aegis_310172
-  310173: aegis_310173
-  310174: aegis_310174
-  310175: aegis_310175
-  310176: aegis_310176
-  310177: aegis_310177
-  310178: aegis_310178
-  310179: aegis_310179
+  310082: Automatic_Orb1
+  310083: Automatic_Orb2
+  310084: Automatic_Orb3
+  310085: Automatic_Orb4
+  310086: Automatic_Orb5
+  310087: Automatic_Orb6
+  310088: Automatic_Orb7
+  310089: Automatic_Orb8
+  310090: Automatic_Orb9
+  310091: Automatic_Orb10
+  310092: Automatic_Orb11
+  310093: Automatic_Orb12
+  310094: Automatic_Orb13
+  310095: Automatic_Orb14
+  310096: Automatic_Orb15
+  310097: Automatic_Orb16
+  310098: Automatic_Orb17
+  310099: Automatic_Orb18
+  310100: Automatic_Orb19
+  310101: Automatic_Orb20
+  310102: Automatic_Orb21
+  310103: Automatic_Orb22
+  310104: Automatic_Orb23
+  310105: Automatic_Orb24
+  310106: Automatic_Orb25
+  310107: Automatic_Orb26
+  310108: Automatic_Orb27
+  310109: Automatic_Orb28
+  310110: Automatic_Orb29
+  310111: Automatic_Orb30
+  310112: Automatic_Orb31
+  310113: Automatic_Orb32
+  310114: Automatic_Orb33
+  310115: Automatic_Orb34
+  310116: Automatic_Orb35
+  310117: Automatic_Orb36
+  310118: Automatic_Orb37
+  310119: Automatic_Orb38
+  310120: Automatic_Orb39
+  310121: Automatic_Orb40
+  310122: Automatic_Orb41
+  310123: Automatic_Orb42
+  310124: Automatic_Orb43
+  310125: Automatic_Orb44
+  310126: Automatic_Orb45
+  310127: Automatic_Orb46
+  310128: Automatic_Orb47
+  310129: Automatic_Orb48
+  310130: Automatic_Orb49
+  310131: Automatic_Orb50
+  310132: Automatic_Orb51
+  310133: Automatic_Orb52
+  310134: Automatic_Orb53
+  310135: Automatic_Orb54
+  310136: Automatic_Orb55
+  310137: Automatic_Orb56
+  310138: Automatic_Orb57
+  310139: Automatic_Orb58
+  310140: Automatic_Orb59
+  310141: Automatic_Orb60
+  310142: Automatic_Orb61
+  310143: Automatic_Orb62
+  310144: Automatic_Orb63
+  310145: Automatic_Orb64
+  310146: Automatic_Orb65
+  310147: Automatic_Orb66
+  310148: Automatic_Orb67
+  310149: Automatic_Orb68
+  310150: Automatic_Orb69
+  310151: Automatic_Orb70
+  310152: Automatic_Orb71
+  310153: Automatic_Orb72
+  310154: Automatic_Orb73
+  310155: Automatic_Orb74
+  310156: Automatic_Orb75
+  310157: Automatic_Orb76
+  310158: Automatic_Orb77
+  310159: Automatic_Orb78
+  310160: Automatic_Orb79
+  310161: Automatic_Orb80
+  310162: Automatic_Orb81
+  310163: Automatic_Orb82
+  310164: Automatic_Orb83
+  310165: Automatic_Orb84
+  310166: Automatic_Orb85
+  310167: Automatic_Orb86
+  310168: Automatic_Orb87
+  310169: Automatic_Orb88
+  310170: Automatic_Orb89
+  310171: Automatic_Orb90
+  310172: Automatic_Orb91
+  310173: Automatic_Orb92
+  310174: Automatic_Orb93
+  310175: Automatic_Orb94
+  310176: Automatic_Orb95
+  310177: Automatic_Orb96
+  310178: Automatic_Orb97
+  310179: Automatic_Orb98
   310180: Warlock_Robe2
   310181: Warlock_Top2
   310182: Warlock_Middle2
@@ -16052,66 +16052,66 @@ items:
   310189: GuillotineCross_Bottom2
   310190: GuillotineCross_Middle2
   310191: GuillotineCross_Top2
-  310197: aegis_310197
-  310198: aegis_310198
-  310199: aegis_310199
-  310200: aegis_310200
-  310201: aegis_310201
-  310202: aegis_310202
-  310203: aegis_310203
-  310204: aegis_310204
-  310205: aegis_310205
-  310206: aegis_310206
-  310207: aegis_310207
-  310208: aegis_310208
-  310209: aegis_310209
-  310210: aegis_310210
-  310211: aegis_310211
-  310212: aegis_310212
-  310213: aegis_310213
-  310214: aegis_310214
-  310215: aegis_310215
-  310216: aegis_310216
-  310217: aegis_310217
-  310218: aegis_310218
-  310219: aegis_310219
-  310220: aegis_310220
-  310221: aegis_310221
-  310222: aegis_310222
-  310223: aegis_310223
-  310224: aegis_310224
-  310225: aegis_310225
-  310226: aegis_310226
-  310227: aegis_310227
-  310228: aegis_310228
-  310229: aegis_310229
-  310230: aegis_310230
-  310231: aegis_310231
-  310232: aegis_310232
-  310233: aegis_310233
-  310234: aegis_310234
-  310235: aegis_310235
-  310236: aegis_310236
-  310237: aegis_310237
-  310238: aegis_310238
-  310239: aegis_310239
-  310240: aegis_310240
-  310241: aegis_310241
-  310242: aegis_310242
-  310243: aegis_310243
-  310244: aegis_310244
-  310245: aegis_310245
-  310246: aegis_310246
-  310247: aegis_310247
-  310248: aegis_310248
-  310249: aegis_310249
-  310250: aegis_310250
-  310251: aegis_310251
-  310252: aegis_310252
-  310253: aegis_310253
-  310254: aegis_310254
-  310255: aegis_310255
-  310256: aegis_310256
+  310197: Tha_Anger_1
+  310198: Tha_Anger_2
+  310199: Tha_Anger_3
+  310200: Tha_Anger_4
+  310201: Tha_Anger_5
+  310202: Tha_Horror_1
+  310203: Tha_Horror_2
+  310204: Tha_Horror_3
+  310205: Tha_Horror_4
+  310206: Tha_Horror_5
+  310207: Tha_Resent_1
+  310208: Tha_Resent_2
+  310209: Tha_Resent_3
+  310210: Tha_Resent_4
+  310211: Tha_Resent_5
+  310212: Tha_Regret_1
+  310213: Tha_Regret_2
+  310214: Tha_Regret_3
+  310215: Tha_Regret_4
+  310216: Tha_Regret_5
+  310217: Tha_Empatize_1
+  310218: Tha_Empatize_2
+  310219: Tha_Empatize_3
+  310220: Tha_Empatize_4
+  310221: Tha_Empatize_5
+  310222: Tha_Happy_1
+  310223: Tha_Happy_2
+  310224: Tha_Happy_3
+  310225: Tha_Happy_4
+  310226: Tha_Happy_5
+  310227: Tha_Comfort_1
+  310228: Tha_Comfort_2
+  310229: Tha_Comfort_3
+  310230: Tha_Comfort_4
+  310231: Tha_Comfort_5
+  310232: Tha_Console_1
+  310233: Tha_Console_2
+  310234: Tha_Console_3
+  310235: Tha_Console_4
+  310236: Tha_Console_5
+  310237: Tha_Wrath_1
+  310238: Tha_Wrath_2
+  310239: Tha_Wrath_3
+  310240: Tha_Wrath_4
+  310241: Tha_Wrath_5
+  310242: Tha_Majesty_1
+  310243: Tha_Majesty_2
+  310244: Tha_Majesty_3
+  310245: Tha_Majesty_4
+  310246: Tha_Majesty_5
+  310247: Tha_demigod_1
+  310248: Tha_demigod_2
+  310249: Tha_demigod_3
+  310250: Tha_demigod_4
+  310251: Tha_demigod_5
+  310252: Tha_Antigod_1
+  310253: Tha_Antigod_2
+  310254: Tha_Antigod_3
+  310255: Tha_Antigod_4
+  310256: Tha_Antigod_5
   310257: Runeknight_Robe2
   310258: Runeknight_Top2
   310259: Runeknight_Middle2
@@ -16124,13 +16124,13 @@ items:
   310266: WandMinst_Top2
   310267: WandMinst_Mid2
   310268: WandMinst_Bot2
-  310321: aegis_310321
-  310325: aegis_310325
-  310326: aegis_310326
-  310327: aegis_310327
-  310328: aegis_310328
-  310329: aegis_310329
-  310330: aegis_310330
+  310321: Enchant_Groza
+  310325: Range_Top
+  310326: Range_Bottom
+  310327: Melee_Top
+  310328: Melee_Middle
+  310329: Melee_Bottom
+  310330: Range_Middle
   310478: Wolf_Orb_Str_1
   310479: Wolf_Orb_Dex_1
   310480: Wolf_Orb_Agi_1
@@ -16301,18 +16301,18 @@ items:
   310645: Wolf_Orb_M_Heal
   310646: Wolf_Orb_M_Soul
   310647: Wolf_Orb_A_Force
-  310654: aegis_310654
-  310655: aegis_310655
-  310658: aegis_310658
-  310659: aegis_310659
-  310660: aegis_310660
-  310661: aegis_310661
-  310662: aegis_310662
-  310663: aegis_310663
-  310664: aegis_310664
-  310665: aegis_310665
-  310666: aegis_310666
-  310667: aegis_310667
+  310654: ASPD_Robe_D
+  310655: Ooparts1
+  310658: MinorCast_Robe_D
+  310659: Cast_Robe_D
+  310660: Range_Robe_D
+  310661: Melee_Robe_D
+  310662: HPdrain_Robe_D
+  310663: SPdrain_Robe_D
+  310664: Magic_Top
+  310665: Magic_Middle
+  310666: Magic_Bottom
+  310667: Magic_Robe_D
   310668: Spring_Energy_1
   310669: Spring_Energy_2
   310670: Spring_Energy_3
@@ -16426,15 +16426,15 @@ items:
   310878: Mad_Bunny_Enchant_9_3
   310879: Mad_Bunny_Enchant_3_5
   310880: Mad_Bunny_Enchant_3_6
-  310881: aegis_310881
-  310882: aegis_310882
-  310883: aegis_310883
-  310884: aegis_310884
-  310885: aegis_310885
-  310886: aegis_310886
-  310887: aegis_310887
-  310888: aegis_310888
-  310889: aegis_310889
+  310881: Runeknight_Top3
+  310882: Runeknight_Middle3
+  310883: Runeknight_Bottom3
+  310884: Warlock_Top3
+  310885: Warlock_Middle3
+  310886: Warlock_Bottom3
+  310887: Royalguard_Top3
+  310888: Royalguard_Middle3
+  310889: Royalguard_Bottom3
   310908: HeroBoots_STR
   310909: HeroBoots_LUK
   310910: HeroBoots_DEX
@@ -16488,17 +16488,17 @@ items:
   311002: Bless_Angel
   311003: Bless_Dragon
   311004: Bless_All
-  311005: aegis_311005
-  311006: aegis_311006
-  311007: aegis_311007
-  311008: aegis_311008
-  311009: aegis_311009
-  311010: aegis_311010
-  311011: aegis_311011
-  311012: aegis_311012
-  311013: aegis_311013
-  311014: aegis_311014
-  311015: aegis_311015
+  311005: WanderMins_Top3
+  311006: WanderMins_Middle3
+  311007: WanderMins_Bottom3
+  311008: Genetic_Top3
+  311009: Genetic_Middle3
+  311010: Genetic_Bottom3
+  311011: Sorcerer_Top3
+  311012: Sorcerer_Middle3
+  311013: Sorcerer_Bottom3
+  311014: Reload_Robe_D
+  311015: Crt_Robe_D
   311016: Gear_ATK
   311017: Gear_MATK
   311018: Gear_ASPD
@@ -16825,17 +16825,17 @@ items:
   311351: Glacier_F_Orb_159
   311352: Glacier_F_Orb_160
   311353: Glacier_F_Orb_161
-  311354: aegis_311354
-  311355: aegis_311355
-  311356: aegis_311356
-  311357: aegis_311357
-  311358: aegis_311358
-  311359: aegis_311359
-  311360: aegis_311360
-  311361: aegis_311361
-  311362: aegis_311362
-  311363: aegis_311363
-  311364: aegis_311364
+  311354: Critical_Robe_D
+  311355: Con_Robe_D
+  311356: Archbishop_Top3
+  311357: Archbishop_Middle3
+  311358: Archbishop_Bottom3
+  311359: Ranger_Top3
+  311360: Ranger_Middle3
+  311361: Ranger_Bottom3
+  311362: Shadowchaser_Top3
+  311363: Shadowchaser_Middle3
+  311364: Shadowchaser_Bottom3
   400000: WhistleK
   400001: Victory_Wing_Ear
   400002: Victory_Wing_Ear_
@@ -16844,45 +16844,45 @@ items:
   400011: Officer_Cap
   400016: Turkey_Hat
   400020: C_BeachBall
-  400021: aegis_400021
-  400022: aegis_400022
-  400023: aegis_400023
-  400043: aegis_400043
-  400044: aegis_400044
-  400045: aegis_400045
-  400046: aegis_400046
+  400021: Clock_Casket_RD
+  400022: Ignis_CapK
+  400023: Dolor_HatK
+  400043: Fallen_Angel_feather
+  400044: Phantom_Cap
+  400045: C_Pierced_Apple
+  400046: C_Pierced_Apple_
   400048: Gift_of_Panagia
-  400049: aegis_400049
+  400049: Stripe_Hat
   400053: Morrigane's_Helm_IL
   400054: Large_Sorcerer_Crown
   400055: C_ShineSantaPoringE
   400056: VIP_Hair_Female
   400057: VIP_Hair_Male
-  400059: aegis_400059
+  400059: Scorpio_Diadem_K
   400060: Freyja_Crown_J
-  400061: aegis_400061
+  400061: Sagittarius_DiademK
   400073: C_Romance_Rose_TW
   400074: C_Disapear_Time_TW
   400075: Astraea_Helm_TW
   400076: C_20th_Anniversary
-  400078: aegis_400078
-  400079: aegis_400079
-  400094: aegis_400094
-  400095: aegis_400095
+  400078: BioWeapon_Helm_RK
+  400079: BioWeapon_Helm_LG
+  400094: BioWeapon_Helm_WL
+  400095: BioWeapon_Helm_SO
   400097: Egirnion_Helm
-  400098: aegis_400098
-  400099: aegis_400099
+  400098: BioWeapon_Helm_NC
+  400099: BioWeapon_Helm_GN
   400115: C_Rag_Origin_Hat
-  400116: aegis_400116
-  400117: aegis_400117
-  400118: aegis_400118
-  400119: aegis_400119
-  400120: aegis_400120
-  400121: aegis_400121
+  400116: BioWeapon_Helm_RA
+  400117: BioWeapon_Helm_WM
+  400118: BioWeapon_Helm_AB
+  400119: BioWeapon_Helm_SR
+  400120: BioWeapon_Helm_SC
+  400121: BioWeapon_Helm_GC
   400124: C_Magestic_Goat2
   400127: Ep18_Mini_Elly
-  400128: aegis_400128
-  400131: aegis_400131
+  400128: C_Ep18_Mini_Elly
+  400131: C_Diadem_Of_Bruenhild
   400134: Thanos_Helm_1
   400135: Thanos_Helm1_LT
   400137: 1Para_Cap_A
@@ -16905,8 +16905,8 @@ items:
   400156: Imp_Hat_LT
   400160: Wave_Noodle
   400163: C_Whale_Cap
-  400166: aegis_400166
-  400177: aegis_400177
+  400166: C_Egir_Helm
+  400177: Fafnir_Helm
   400178: Viva_Adul_Hat_WL1
   400179: Viva_Adul_Hat_WL2
   400180: Viva_Adul_Hat_SR1
@@ -16948,7 +16948,7 @@ items:
   410005: C_Magic_Heir_TW
   410012: EXP_Processor
   410013: EXP_Processor_
-  410016: aegis_410016
+  410016: Battle_Processor
   410017: Battle_Processor_
   410018: Booster_Mask_A
   410019: Booster_Mask_B
@@ -16967,35 +16967,35 @@ items:
   410063: C_Cherry_Ribbon
   410068: C_Fish_Marche
   410069: C_Pet_Popcorn_Box
-  410079: aegis_410079
+  410079: Deepblue_Sunglasses
   410080: Deepblue_Sunglasses_
   410087: C_Demons_Familiar
-  410091: aegis_410091
-  410092: aegis_410092
-  410093: aegis_410093
-  410094: aegis_410094
+  410091: Cor_Core_Booster
+  410092: Cor_Core_Booster_
+  410093: Chain_Of_Seal
+  410094: Chain_Of_Seal_
   410095: C_White_Cat_On_Shoulder
-  410096: aegis_410096
-  410097: aegis_410097
+  410096: Pope_Ribbon_R
+  410097: Pope_Ribbon_R_
   410099: C_Avenger
   410103: C_Silk_Of_Soul
   420003: CD_In_MouthK
-  420006: aegis_420006
+  420006: Vassalage_Necklace
   420010: C_Cons_Of_Darkness
-  420014: aegis_420014
+  420014: C_Japanes_Hair
   420016: C_Katashiro_Flying
-  420017: aegis_420017
-  420018: aegis_420018
-  420019: aegis_420019
-  420020: aegis_420020
-  420021: aegis_420021
-  420022: aegis_420022
+  420017: Tree_Of_Sprout_STR
+  420018: Tree_Of_Sprout_DEX
+  420019: Tree_Of_Sprout_AGI
+  420020: Tree_Of_Sprout_LUK
+  420021: Tree_Of_Sprout_VIT
+  420022: Tree_Of_Sprout_INT
   420025: C_OneEyedJack
   420026: C_Ribbon_Piamat_J
   420029: C_Imperial_Glory
-  420030: aegis_420030
-  420031: aegis_420031
-  420033: aegis_420033
+  420030: Falconer_Flute_C
+  420031: Mask_Of_Orochimaru_C
+  420033: C_Airy_Two_Side_Up_WH
   420034: C_Long_Wave_BD
   420035: C_Long_Wave_SV
   420036: C_Fluffy_Semi_Long_LB
@@ -17019,15 +17019,15 @@ items:
   420062: C_AB_Hair_PP
   420066: SurviveOrb_K_LT
   420067: C_Hopping_Twin_Pigtail
-  420068: aegis_420068
+  420068: Lord_of_Royals
   420071: C_Feather_Stola
   420072: C_L_Knitting_Low_Twin_W
   420074: Limesoda_In_Mouth
   420076: Vassalage_Necklace
   420077: C_Cat_Footprints
-  420079: aegis_420079
+  420079: C_Inner_Color_Long
   420082: C_WL_Hair_BU
-  420092: aegis_420092
+  420092: C_Silky_Long_SV
   420095: C_Braid_Half_Up_WH
   420096: C_Braid_Half_Up_OM
   420097: C_Braid_Half_Up_PP
@@ -17036,24 +17036,24 @@ items:
   420100: C_Braid_Half_Up_YL
   420101: C_Braid_Half_Up_RD
   420102: C_Braid_Half_Up_GN
-  436000: aegis_436000
-  436001: aegis_436001
-  436002: aegis_436002
-  436003: aegis_436003
-  436004: aegis_436004
-  436005: aegis_436005
+  436000: Tha_Maero_MaskK
+  436001: Tha_Despero_MaskK
+  436002: Thanatos_Mal_MaskK
+  436003: Thanatos_Mal_MaskK_
+  436004: Tha_Despero_MaskK_
+  436005: Tha_Maero_MaskK_
   436006: C_Ep19_Rgan
   436007: C_Ep19_Iwin
-  436008: aegis_436008
+  436008: C_HwaHoJumJung
   440000: C_SharkHead
   440001: C_Wunderkammer
   440002: C_Happy_Cat_TW
   440003: C_Pretty_Rabbit_Hood_E
-  440004: aegis_440004
-  440005: aegis_440005
+  440004: C_Close_Helmet
+  440005: C_Diabolus_Helmet
   440006: C_Black_Cat_Hood_kr
   440007: C_Squirrel_Ear_Hat_Kr
-  440008: aegis_440008
+  440008: C_Master
   440009: C_Black_Moon_Cat_kr
   440010: C_Bear_Head
   450000: IDTest_armor
@@ -17171,7 +17171,7 @@ items:
   450126: Grace_Super_Novice_Robe
   450127: Auto_Armor_A
   450128: Auto_Armor_B
-  450131: aegis_450131
+  450131: Fallen_Angel_Armor_TW
   450142: Orc_Load_Mail
   450144: Saint_Robe_IL
   450145: Water_Sprits_Armor_IL
@@ -17180,11 +17180,11 @@ items:
   450148: E_Illusion_Armor_B
   450149: MD_Geffen_Suits
   450150: MD_Geffen_Robe
-  450151: aegis_450151
+  450151: Adv_Cotton_Shirt
   450158: Triad_God_Mail_J__
-  450163: aegis_450163
+  450163: White_Lily_Robe_
   450164: Egirnion_Armor
-  450165: aegis_450165
+  450165: Striking_Mail
   450166: Vague_Star_Robe
   450167: Vague_Star_Suit
   450168: Vague_Star_Armor
@@ -17197,8 +17197,8 @@ items:
   450177: Gray_W_Suits
   450178: Gray_W_Robe
   450179: Bloody_Dress
-  450180: aegis_450180
-  450181: aegis_450181
+  450180: Cute_Frog_Raincoat
+  450181: White_Lily_Robe__
   450182: Sprint_Mail_IL
   450183: 1Para_Armor_A
   450184: 1Para_Armor_B
@@ -17214,10 +17214,10 @@ items:
   450203: Barmund_Ice_Armor
   450206: Snowflower_Armor
   450207: Snowflower_Robe
-  450208: aegis_450208
+  450208: Paracelsus_Coat
   460005: MD_Geffen_Shield
   460006: MD_Geffen_Shield2
-  460012: aegis_460012
+  460012: Avd_Guard
   460013: Poenetentia_Aegis
   460017: Guard_IL
   460018: Siver_Guard_IL
@@ -17261,15 +17261,15 @@ items:
   470074: MD_Airboat_Boots4
   470076: MD_Airboat_Boots5
   470077: MD_Airboat_Boots6
-  470082: aegis_470082
-  470083: aegis_470083
+  470082: Regeneration_P_Shoes
+  470083: Regeneration_P_Shoes_
   470084: Rune_Greave_JP
-  470085: aegis_470085
+  470085: Rune_Greave_JP_
   470087: Gray_W_Boots
   470088: Gray_W_Shoes
   470093: L_60Lv_Shoes
   470094: Hero_Boots_LT
-  470097: aegis_470097
+  470097: HalfBloodPrincess_Shoes
   470107: Barmund_Greave
   470108: Barmund_Plain_Boots
   470109: Barmund_Flame_Boots
@@ -17294,8 +17294,8 @@ items:
   480052: C_Sakura_Fes_TW
   480053: Behemoth_Muffler
   480054: Morrigane's_Manteau_IL
-  480056: aegis_480056
-  480058: aegis_480058
+  480056: C_Wing_Of_Angel_Move_BK
+  480058: C_Wing_Of_Angel_Move_GD
   480062: E_Illusion_Engine_A
   480063: E_Illusion_Engine_B
   480064: Storm_Muffler
@@ -17305,14 +17305,14 @@ items:
   480068: MD_Geffen_Hood4
   480069: C_Wing_Of_Angel_Move
   480071: Calabash
-  480077: aegis_480077
+  480077: Magma_Manteau
   480082: C_Sandalphon_Wing_TW
   480083: Egirnion_Manteau
   480084: Fafnir_Manteau
   480086: C_CAPOO_Bag_TW
   480090: Gray_W_Muffler
   480091: Gray_W_Manteau
-  480092: aegis_480092
+  480092: C_Sudden_Wealth_J
   480093: C_Scepter
   480095: C_Giant_White_Rabbit
   480096: C_Put_On_Coat
@@ -17322,27 +17322,27 @@ items:
   480105: L_60Lv_Cape
   480106: L_60Lv_Muffler
   480107: C_Kings_Twin_Sword
-  480108: aegis_480108
+  480108: C_Poring_Basket
   480110: C_Adventure_Cat_Bag
-  480111: aegis_480111
-  480114: aegis_480114
+  480111: C_Flower_Wing
+  480114: Striking_Mikoshi
   480117: C_Elec_Guitar_Of_Phen
   480118: C_G_DaeHyon_Sword_TW
-  480119: aegis_480119
-  480120: aegis_480120
-  480121: aegis_480121
+  480119: C_Niflheim_Key
+  480120: Guardian_Soul_TH
+  480121: C_Striking_Mikoshi
   480122: C_Samba_Carnival
-  480123: aegis_480123
-  480124: aegis_480124
-  480125: aegis_480125
+  480123: C_Nydhog_Rumor
+  480124: Cvt_Physical_Wing
+  480125: Cvt_Magical_Wing
   480126: C_Giant_Shark
   480127: C_Hooked_Straw_Hat
   480129: C_Triple_Ice_Cream
   480130: C_Beer_Server
   480131: C_Swirling_Flame
-  480134: aegis_480134
-  480136: aegis_480136
-  480137: aegis_480137
+  480134: Avareco
+  480136: Thanatos_Sword
+  480137: C_Filir_Bag
   480138: ST_Servival_Cloak
   480144: Barmund_Manteau
   480145: Barmund_Plain_Hood
@@ -17351,8 +17351,8 @@ items:
   480148: Barmund_Ice_Hood
   480159: Snowflower_Manteau
   480160: Snowflower_Muffler
-  480161: aegis_480161
-  480166: aegis_480166
+  480161: Subject_CapeRange_TH
+  480166: Subject_CapeMagic_TH
   490004: Attacker_Booster_Ring
   490005: Elemental_Booster_Earring
   490006: Defender_Booster_Earring
@@ -17370,7 +17370,7 @@ items:
   490026: Auto_BC_R
   490027: Auto_BC_L
   490029: Geffenia_Magictool_Ice
-  490033: aegis_490033
+  490033: Fallen_Angel_tear
   490037: Dark_Ring
   490038: Sixth_Sense_Ring
   490044: Sin_Ring_R
@@ -17410,23 +17410,23 @@ items:
   490079: SoulExpansionRing
   490083: Themis_Balance
   490087: 4th_Q_Necklace
-  490090: aegis_490090
-  490091: aegis_490091
+  490090: Egir_Ring_K
+  490091: Egir_Necklace_K
   490092: Egirnion_Ring
   490093: Egirnion_Necklace
-  490098: aegis_490098
+  490098: Ring_of_Pazuzu
   490099: Thanatos_Pendant
   490100: Blue_Mental_Pendant
   490101: Red_Force_Pendant
-  490102: aegis_490102
+  490102: Skull_Ring
   490104: Ring_Of_Phoenix
   490106: Gray_W_Pendant
   490107: Gray_W_Ring
   490108: Gray_W_Earing
   490109: Gray_W_Necklace
-  490110: aegis_490110
-  490118: aegis_490118
-  490119: aegis_490119
+  490110: Anulus_Ira
+  490118: RingOfAdoramus
+  490119: Battle_Core
   490120: Sprint_Ring_IL
   490121: Sprint_Glove_IL
   490122: 1Para_Acc_L_A
@@ -17437,7 +17437,7 @@ items:
   490127: L_60Lv_Gloves
   490128: L_60Lv_Mring
   490129: L_60Lv_Necklace
-  490130: aegis_490130
+  490130: SkynetBlowRing
   490131: Signet_Of_Star
   490132: Signet_Of_Pow_Star
   490133: Signet_Of_Sta_Star
@@ -17445,38 +17445,38 @@ items:
   490135: Signet_Of_Crt_Star
   490136: Signet_Of_Spl_Star
   490137: Signet_Of_Wis_Star
-  490139: aegis_490139
-  490141: aegis_490141
-  490142: aegis_490142
-  490143: aegis_490143
-  490145: aegis_490145
-  490146: aegis_490146
-  490152: aegis_490152
-  490153: aegis_490153
-  490155: aegis_490155
-  490156: aegis_490156
+  490139: Ring_Of_TheAbyssKing_A
+  490141: Metal_Pick
+  490142: Omega_Core
+  490143: Omega_Core_
+  490145: Ring_Of_Ceryneian
+  490146: Paracelsus_Glove
+  490152: Hero_Token_AG
+  490153: Hero_Token_WH
+  490155: Hero_Token_IG
+  490156: Hero_Token_CD
   490159: Omega_Core
   490160: ST_Orleans_Glove
   490161: ST_Pinquicula_Corsage
   490162: ST_Waterdrop_Brooch
   490163: Hero_Insignia
-  490164: aegis_490164
-  490165: aegis_490165
-  490166: aegis_490166
-  490167: aegis_490167
-  490171: aegis_490171
-  490172: aegis_490172
+  490164: Hero_Token_SHC
+  490165: Hero_Token_ABC
+  490166: Hero_Token_DK
+  490167: Hero_Token_BO
+  490171: Hero_Token_EM
+  490172: Hero_Token_TR
   490176: Snowflower_Pendant
   490177: Snowflower_Ring
   490178: Snowflower_Necklace
   490179: Snowflower_Earring
-  490180: aegis_490180
-  490181: aegis_490181
-  490184: aegis_490184
-  490185: aegis_490185
-  490186: aegis_490186
-  490187: aegis_490187
-  490188: aegis_490188
+  490180: Hero_Token_MT
+  490181: Hero_Token_IQ
+  490184: Hero_Token_SS
+  490185: Hero_Token_NW
+  490186: Hero_Token_SOA
+  490187: Hero_Token_SKE
+  490188: Hero_Token_SH
   500000: IDTest_weapon
   500001: Boost_Sword
   500003: Light_Blade
@@ -18092,12 +18092,12 @@ items:
   1000222: GuillotineCrossStone_Top2
   1000223: GuillotineCrossStone_Middle2
   1000224: GuillotineCrossStone_Bottom2
-  1000225: aegis_1000225
+  1000225: GAMJammingChip
   1000226: Broken_Dollcore
-  1000227: aegis_1000227
+  1000227: Cloud_Cotton
   1000231: Broken_AutoDoll_Parts
   1000232: Autodoll_Communicator
-  1000235: aegis_1000235
+  1000235: Elite_Hunter_Token
   1000243: Sin_Shard_A
   1000244: Sin_Shard_B
   1000245: Sin_Shard_C
@@ -18231,7 +18231,7 @@ items:
   1000445: Crt_Meteorite_Fragment
   1000446: Spl_Meteorite_Fragment
   1000447: Wis_Meteorite_Fragment
-  1000471: aegis_1000471
+  1000471: Vila_Basement_Key
   1000475: Conse_F_T_Sword
   1000476: Conse_F_Lance
   1000477: Conse_F_G_Sword
@@ -18261,8 +18261,8 @@ items:
   1000501: Purificatory_Holy_O
   1000502: Purificatory_Holy_W
   1000503: Sanctuary_Sudarium
-  1000504: aegis_1000504
-  1000505: aegis_1000505
+  1000504: Dry_Sand
+  1000505: Opaque_Liquid
   1000506: Shell_Of_Cognition
   1000510: IL_Twins_Feeler
   1000511: IL_Twins_Leg
@@ -18298,7 +18298,7 @@ items:
   1000605: Ep19_Red_Tube
   1000606: Ep19_Rgans_Egg_Shell
   1000607: Ep19_Letter
-  1000608: aegis_1000608
+  1000608: Ep19_Snow_Flower
   1000609: Mad_Bunny_Ticket
   1000610: RuneknightStone_Top3
   1000611: RuneknightStone_Middle3
@@ -18333,8 +18333,8 @@ items:
   1000676: CrtStone_Robe_D
   1000680: ClockTower_Lead
   1000681: ClockTower_Gear
-  1000682: aegis_1000682
-  1000684: aegis_1000684
+  1000682: ClockTower_key
+  1000684: 2ndUpperEx_guidemap
   1000685: Conse_F_Humma
   1000686: Conse_F_C_Humma
   1000687: Conse_F_Revolver
@@ -18350,7 +18350,7 @@ items:
   1000697: Conse_F_F_model
   1000705: Ep19_Rgan_Core
   1000706: Ep19_Purified_Core
-  1000707: aegis_1000707
+  1000707: Ep19_Rgan_Core_F
   1000708: Ep19_Ice_Meat
   1000711: Ice_F_Stone_Str
   1000712: Ice_F_Stone_Dex
